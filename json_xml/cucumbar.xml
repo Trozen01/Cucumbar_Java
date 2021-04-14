@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="17" time="0.090125">
+<testcase classname="Check and execute group test cases of Orange CRM" name="Login orange CRM" time="0.084405">
+<system-out><![CDATA[Given User is already on login page.........................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Check and execute group test cases of Orange CRM" name="Go to Home page" time="0.00028">
+<system-out><![CDATA[Given log on credintional and log in successfully...........................passed
+]]></system-out>
+</testcase>
+<testcase classname="Check and execute group test cases of Orange CRM" name="Test Home page" time="0.000448">
+<system-out><![CDATA[Then check Home page........................................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Check and execute group test cases of Orange CRM" name="Test employee page" time="0.000528">
+<system-out><![CDATA[Given check employee page...................................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Check and execute group test cases of Orange CRM" name="Test employee details" time="0.000266">
+<system-out><![CDATA[Given check employee details................................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Check and execute group test cases of Orange CRM" name="Test usermanagement page" time="0.000328">
+<system-out><![CDATA[Given check usermanagement Page.............................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Check and execute group test cases of Orange CRM" name="Test usermanagement details" time="0.000306">
+<system-out><![CDATA[Given check usermanagement/ details.........................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Check and execute group test cases of Orange CRM" name="Test Job page" time="0.000267">
+<system-out><![CDATA[Given check Job Page........................................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Check and execute group test cases of Orange CRM" name="Test Job details" time="0.000292">
+<system-out><![CDATA[Given check Job details.....................................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Check and execute group test cases of Orange CRM" name="Test Location page" time="0.000273">
+<system-out><![CDATA[Given check Location Page...................................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Check and execute group test cases of Orange CRM" name="Test Location details" time="0.000274">
+<system-out><![CDATA[Given check Location details................................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Check and execute group test cases of Orange CRM" name="Test skills page" time="0.000239">
+<system-out><![CDATA[Given check skills Page.....................................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Check and execute group test cases of Orange CRM" name="Test skills details" time="0.00021">
+<system-out><![CDATA[Given check skills details..................................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Check and execute group test cases of Orange CRM" name="Test modules page" time="0.000219">
+<system-out><![CDATA[Given check modules Page....................................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Check and execute group test cases of Orange CRM" name="Test modules details" time="0.000216">
+<system-out><![CDATA[Given check modules details.................................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Check and execute group test cases of Orange CRM" name="Test candidate page" time="0.001306">
+<system-out><![CDATA[Given check candidate Page..................................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Check and execute group test cases of Orange CRM" name="Test candidate details" time="0.000268">
+<system-out><![CDATA[Given check candidate details...............................................passed
+]]></system-out>
+</testcase>
+</testsuite>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="24.902669">
+<testcase classname="orange HRM Add New Job" name="Add new Job" time="24.902669">
+<system-out><![CDATA[Given User is already on login page.........................................passed
+When title of login page is free OrangeHRM..................................passed
+Then user enters username and password......................................passed
+And user click on login button..............................................passed
+Then go to Add Job..........................................................passed
+Then Add Job................................................................passed
+Then close the Browser......................................................passed
+]]></system-out>
+</testcase>
+</testsuite>
